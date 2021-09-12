@@ -1289,8 +1289,8 @@ margin-top: 53px;
      width: 100%;
 }
 
-.logo img  { 
-    margin-top: -20px;
+.logo_section .logo img { 
+     margin-top: -20px;
      max-width: 100px;
      height: auto;
      border-radius: 50px;
