@@ -1539,11 +1539,12 @@ justify-content: center;
 /*--------------------------------------------------------------------- ener page css ---------------------------------------------------------------------*/
 
 
-.contineer_page .header {background: #656565; padding-bottom: 27px;     position: inherit;}
+.contineer_page .header {background-image:url('../images/araucaria-y-bruma.jpg');    background-size: cover; background-position: center;
+    background-repeat: no-repeat; padding-bottom: 27px;     position: inherit;}
 
-.backgro_mh {background: #656565; }
+.backgro_mh {background-color: white; }
 .heding h2 {
-     color: #fff;
+     color:black;
 font-size: 60px;
 line-height: 60px;
 padding: 45px 0;

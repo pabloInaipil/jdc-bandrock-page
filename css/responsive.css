@@ -154,7 +154,7 @@
     .carousel-control-next {right: 38%;}
  .carousel-control-prev {left:38%;}
  .hover_box {width: 90.5%;}
- .backgro_mh {margin-top: 105px;}
+ .backgro_mh {margin-top: 1px;}
 }
  @media (min-width: 768px) and (max-width: 991px) {
     .logo {padding-bottom: 6px;}
@@ -172,7 +172,7 @@
     .news {max-width: 100%;}
     ul.loca li {padding: 0px 27px;}
     .last_manu {display: none !important;}
-     .backgro_mh {margin-top: 105px;}
+     .backgro_mh {margin-top: 1px;}
 }
 
  @media (max-width: 767px) {
